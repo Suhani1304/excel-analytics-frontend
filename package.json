@@ -27,13 +27,13 @@
     ]
   },
   "dependencies": {
-    "@testing-library/dom": "^10.4.0",
+    "@testing-library/dom": "latest",
     "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
     "@testing-library/user-event": "^13.5.0",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "chart.js": "^4.5.0",
+    "chart.js": "latest",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.454.0",
@@ -42,7 +42,7 @@
     "react-chartjs-2": "latest",
     "react-dom": "^19",
     "react-router-dom": "latest",
-    "react-scripts": "^0.0.0",
+    "react-scripts": "5.0.1",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "web-vitals": "latest",
@@ -52,9 +52,9 @@
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "autoprefixer": "^10.4.21",
+    "autoprefixer": "^10.4.14",
     "postcss": "^8.5",
-    "tailwindcss": "^4.1.10",
+    "tailwindcss": "^3.2.7",
     "typescript": "^5"
   }
 }
